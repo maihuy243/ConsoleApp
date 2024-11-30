@@ -1,0 +1,61 @@
+# Binaries
+/bin/
+/obj/
+
+MyApps/bin/
+MyApps/obj/
+
+# Build output
+/out/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Logs
+*.log
+
+# Visual Studio
+.vscode/
+*.VC.db
+*.VC.VC.opendb
+
+# Rider
+.idea/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+*.pdb
+
+# DotNet Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# OS Generated Files
+Thumbs.db
+ehthumbs.db
+.DS_Store
+Icon?
+._*
+
+# Environment Settings
+.env
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swn
+
+# Encryption Keys (secure manually)
+keys.json
+keys.dat
+
+# Config files
+Configs/config.json
+Configs/permissions.dat

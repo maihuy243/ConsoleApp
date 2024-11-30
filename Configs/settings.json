@@ -1,0 +1,12 @@
+{
+    "switch_info_via": {
+        "from": "",
+        "to": ""
+    },
+    "chrome": {
+        "width": "550",
+        "height": "600",
+        "scale": "0.8",
+        "isHideChrome": false
+    }
+}
